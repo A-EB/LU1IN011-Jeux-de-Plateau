@@ -82,11 +82,11 @@ Fonctions principales
 
 Exemple d’utilisation
 
-p = plat2048_ini()
-tour2048(p, "")   # Affiche le plateau initial
+- p = plat2048_ini()
+- tour2048(p, "")   # Affiche le plateau initial
 
-tour2048(p, "h")  # Déplacement vers le haut
-tour2048(p, "g")  # Déplacement vers la gauche
+- tour2048(p, "h")  # Déplacement vers le haut
+- tour2048(p, "g")  # Déplacement vers la gauche
 
 Tests intégrés
 
